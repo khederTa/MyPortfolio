@@ -21,30 +21,32 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>20+ Worldwide</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>30+ Completed</small>
             </article>
           </div>
 
-          <p>
-                As a software engineer, I have a passion for developing innovative solutions to complex problems. I specialize in developing web applications and mobile applications using the latest technologies such as HTML5, CSS3, JavaScript (ES6, ES7), Java, React.js, Node.js, and Python. I also have extensive experience in machine learning and deep learning technologies such as TensorFlow and Keras.
+          <p> 
+              As a software engineer am passionate about developing innovative solutions to complex problems.
 
-I am highly motivated to stay up-to-date with the latest trends in software engineering and machine learning. I am always eager to learn new technologies and apply them to my projects. My goal is to create efficient and robust solutions that can help businesses reach their goals faster.
+              I specialize in web and mobile applications using HTML5, CSS3, JavaScript (ES6, ES7), Java, React.js, Node.js, and Python. 
 
-I am an excellent communicator with strong problem-solving skills. I have worked on several projects with teams of developers from different backgrounds, which has enabled me to develop my interpersonal skills as well as my technical abilities. 
+              I also have experience in machine learning and deep learning technologies such as TensorFlow and Keras.
 
-I am confident that my knowledge and experience will be an asset to any organization looking for a software engineer who is passionate about technology and eager to learn new things.
+              I have strong problem-solving skills and excellent communication skills from working on projects with teams of developers from different backgrounds. 
+
+              I'm motivated to stay up-to-date with the latest trends in software engineering and machine learning and I am confident my knowledge and experience will be an asset to any organization.
           </p>
           <a href="#content" className='btn btn-primary'>Let's Talk</a>
 
