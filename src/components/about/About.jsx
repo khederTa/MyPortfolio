@@ -38,7 +38,13 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, ea ipsam quisquam est qui repudiandae omnis eaque, ullam dolor ab beatae similique corporis alias voluptatum! Eligendi culpa eveniet laudantium ipsum?
+                As a software engineer, I have a passion for developing innovative solutions to complex problems. I specialize in developing web applications and mobile applications using the latest technologies such as HTML5, CSS3, JavaScript (ES6, ES7), Java, React.js, Node.js, and Python. I also have extensive experience in machine learning and deep learning technologies such as TensorFlow and Keras.
+
+I am highly motivated to stay up-to-date with the latest trends in software engineering and machine learning. I am always eager to learn new technologies and apply them to my projects. My goal is to create efficient and robust solutions that can help businesses reach their goals faster.
+
+I am an excellent communicator with strong problem-solving skills. I have worked on several projects with teams of developers from different backgrounds, which has enabled me to develop my interpersonal skills as well as my technical abilities. 
+
+I am confident that my knowledge and experience will be an asset to any organization looking for a software engineer who is passionate about technology and eager to learn new things.
           </p>
           <a href="#content" className='btn btn-primary'>Let's Talk</a>
 
