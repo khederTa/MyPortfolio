@@ -16,7 +16,7 @@ const Footer = () => {
         <li><a href="#experience" rel='noreferrer noopener'>Experience</a></li>
         <li><a href="#services" rel='noreferrer noopener'>Services</a></li>
         <li><a href="#portfolio" rel='noreferrer noopener'>Portfolio</a></li>
-        <li><a href="#testimonials" rel='noreferrer noopener'>Testimonials</a></li>
+     {/*   <li><a href="#testimonials" rel='noreferrer noopener'>Testimonials</a></li>*/}
         <li><a href="#contact" rel='noreferrer noopener'>Contact us</a></li>
       </ul>
 
