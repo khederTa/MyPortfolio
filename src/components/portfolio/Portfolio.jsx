@@ -45,8 +45,8 @@ const data = [
   },
   {
     id: 6,
-    image: IMG6,
-    title: 'title for the project',
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0hKafRVjPI0tPkEPVAhy-krdK_BaJE9eUlKP8Qo9&s",
+    title: 'E-commerce MERN stack',
     github: 'https://github.com',
     demo: 'https://github.com'
   }
@@ -67,7 +67,7 @@ const Portfolio = () => {
                 <div className="portfolio__item-image">
                   <img src={image} alt={title} />
                 </div>
-                <h3>This is a portfolio item title</h3>
+                <h3>{title}</h3>
                 <div className="portfolio__item-cta">
                   <a href={github} className='btn' target='_blank' rel='noreferrer noopener'>Github</a>
                  {/* <a href={demo} className='btn btn-primary' target='_blank' rel='noreferrer noopener'>Live Demo</a>*/}
