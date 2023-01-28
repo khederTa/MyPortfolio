@@ -36,12 +36,12 @@ const Contact = () => {
             <a href="mailto:khdertaleb1@gmail.com" target='_blank' rel='noreferrer noopener'>Send a message</a>
           </article>
 
-          <article className="contact__option">
+       {/*   <article className="contact__option">
             <RiMessageLine className='contact__option-icon' />
             <h4>Messanger</h4>
             <h5>Kheder Taleb</h5>
             <a href="https://m.me/kheder.taleb" target='_blank' rel='noreferrer noopener'>Send a message</a>
-          </article>
+          </article>*/}
 
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon' />
