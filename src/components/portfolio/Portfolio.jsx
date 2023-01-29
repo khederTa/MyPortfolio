@@ -33,7 +33,7 @@ const data = [
     id: 4,
     image: 'https://th.bing.com/th?id=OIP.tDu-vQE9VA_Cp3wYMSw_jwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2',
     title: 'Book Online Store MERN Stack',
-    github: 'https://github.comkhederTa/book-online-store-MERN-stack',
+    github: 'https://github.com/khederTa/book-online-store-MERN-stack',
     demo: 'https://github.com'
   },
   {
@@ -47,7 +47,7 @@ const data = [
     id: 6,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0hKafRVjPI0tPkEPVAhy-krdK_BaJE9eUlKP8Qo9&s",
     title: 'E-Commerce MERN Stack',
-    github: 'https://github.com',
+    github: 'https://github.com/khederTa/E-Commerce-MERN-Stack',
     demo: 'https://github.com'
   }
 ]
