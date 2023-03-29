@@ -11,7 +11,7 @@ const data = [
   {
     id: 1,
     image: "https://th.bing.com/th/id/OIP.bBveFtIuwGY-bdCqCMmZtQHaE8?pid=ImgDet&rs=1",
-    title: 'TED Web Scraping And Classification Video By Its Transcript',
+    title: 'TED Web Scraping And Classification Video By Its Transcript Using Machine Learning',
     github: 'https://github.com/khederTa/Ted-Web-Scraping-And-Classification-Videos',
     demo: 'https://github.com'
   },
@@ -50,13 +50,7 @@ const data = [
     github: 'https://github.com/khederTa/E-Commerce-MERN-Stack',
     demo: 'https://github.com'
   },
-  {
-    id: 6,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0hKafRVjPI0tPkEPVAhy-krdK_BaJE9eUlKP8Qo9&s",
-    title: 'E-Commerce MERN Stack',
-    github: 'https://github.com/khederTa/E-Commerce-MERN-Stack',
-    demo: 'https://github.com'
-  }
+
   {
     id: 7,
     image: "https://th.bing.com/th/id/R.2342ddf33fceccf54ce9b0e5e30f78f4?rik=YQJoHoAH%2bh9asA&pid=ImgRaw&r=0",
