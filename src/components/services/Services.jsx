@@ -141,12 +141,7 @@ const Services = () => {
               </p>
             </li>
 
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>
-                Authentication and Authorization: I have experience in implementing authentication and authorization using JWT tokens, OAuth2, and Passport.js.
-              </p>
-            </li>
+           
 
             <li>
               <BiCheck className='service__list-icon' />
