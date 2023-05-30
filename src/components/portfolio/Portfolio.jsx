@@ -43,28 +43,30 @@ const data = [
     github: 'https://github.com/khederTa/Food_delivery_system',
     demo: 'https://github.com'
   },
-  {
-    id: 6,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0hKafRVjPI0tPkEPVAhy-krdK_BaJE9eUlKP8Qo9&s",
-    title: 'E-Commerce MERN Stack',
-    github: 'https://github.com/khederTa/E-Commerce-MERN-Stack',
-    demo: 'https://github.com'
-  },
+  
 
   {
-    id: 7,
+    id: 6,
     image: "https://th.bing.com/th/id/R.2342ddf33fceccf54ce9b0e5e30f78f4?rik=YQJoHoAH%2bh9asA&pid=ImgRaw&r=0",
     title: 'Share Memories Social Media Application',
     github: 'https://github.com/khederTa/Share-Memories-Social-Media-Application',
     demo: 'https://github.com'
   },
   {
-    id: 8,
+    id: 7,
     image: "https://th.bing.com/th/id/OIP.cSayzj8fteFzob5v_VSIwAHaEK?pid=ImgDet&rs=1",
     title: 'Real time Chat Application',
     github: 'https://github.com/khederTa/Real-time-Chat-Application',
     demo: 'https://github.com'
-  }
+  },
+  {
+    id: 8,
+    image: "https://d3i71xaburhd42.cloudfront.net/2b2286f2dfb79c6f4661bafa350a4ac55c75cd32/2-Figure1-1.png",
+    title: 'Refugee Ontology The Conferece: "https://csse.utoronto.ca/oss2023" (in progress)',
+    github: 'https://github.com/khederTa/RefugeeOntologyV1.git',
+    demo: 'https://github.com'
+  },
+  
 ]
 
 
