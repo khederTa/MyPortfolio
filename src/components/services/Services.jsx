@@ -157,12 +157,7 @@ const Services = () => {
               </p>
             </li>
 
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>
-                Deployment: I have experience in deploying Node.js applications to cloud providers such as AWS or Heroku using CI/CD pipelines with tools such as Jenkins or Travis CI.
-              </p>
-            </li>
+            
           </ul>
         </article>
         {/* END OF Back-End */}
