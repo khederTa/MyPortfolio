@@ -17,27 +17,21 @@ const data = [
   },
   {
     id: 2,
-    image: "https://th.bing.com/th/id/OIP.7J7nVH4LeNwwBbSbw44UFQHaFj?w=235&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFZGQ_Lblo3oNyewce_PDVJqRcdwPIfw0hjj7yHts3bXbhEJ6iGTwavXT5vG7hpUDrVY&usqp=CAU",
     title: 'Sign Language Recognition Using Deep Learning ASL',
     github: 'https://github.com/khederTa/Sign-language-recognition-using-deep-learning-ASL',
     demo: 'https://github.com'
   },
+ 
   {
     id: 3,
-    image: "https://th.bing.com/th/id/OIP.lIOSK0S3LcDq9DzCo4fjyQHaEE?w=287&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
-    title: "Logistic Regression Classifier To Recognize Cats",
-    github: 'https://github.com/khederTa/logistic-regression-classifier-to-recognize-cats',
-    demo: 'https://github.com'
-  },
-  {
-    id: 4,
     image: 'https://th.bing.com/th?id=OIP.tDu-vQE9VA_Cp3wYMSw_jwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2',
     title: 'Book Online Store MERN Stack',
     github: 'https://github.com/khederTa/book-online-store-MERN-stack',
     demo: 'https://github.com'
   },
   {
-    id: 5,
+    id: 4,
     image: "https://th.bing.com/th/id/OIP.aQjlwxDUtFwQ_hAOLDbBFwHaE8?w=268&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
     title: 'Food Delivery System MVC',
     github: 'https://github.com/khederTa/Food_delivery_system',
@@ -46,23 +40,23 @@ const data = [
   
 
   {
-    id: 6,
+    id: 5,
     image: "https://th.bing.com/th/id/R.2342ddf33fceccf54ce9b0e5e30f78f4?rik=YQJoHoAH%2bh9asA&pid=ImgRaw&r=0",
     title: 'Share Memories Social Media Application',
     github: 'https://github.com/khederTa/Share-Memories-Social-Media-Application',
     demo: 'https://github.com'
   },
   {
-    id: 7,
+    id: 6,
     image: "https://th.bing.com/th/id/OIP.cSayzj8fteFzob5v_VSIwAHaEK?pid=ImgDet&rs=1",
     title: 'Real time Chat Application',
     github: 'https://github.com/khederTa/Real-time-Chat-Application',
     demo: 'https://github.com'
   },
   {
-    id: 8,
-    image: "https://d3i71xaburhd42.cloudfront.net/2b2286f2dfb79c6f4661bafa350a4ac55c75cd32/2-Figure1-1.png",
-    title: 'Refugee Ontology The Conferece: "https://csse.utoronto.ca/oss2023" (in progress)',
+    id: 7,
+    image: "https://futurearchitectureplatform.org/media/froala/05_afr_image_3%20(840%20x%20594).jpg",
+    title: 'Refugee Ontology at the OSS2023 at the University Of Toronto',
     github: 'https://github.com/khederTa/RefugeeOntologyV1.git',
     demo: 'https://github.com'
   },
