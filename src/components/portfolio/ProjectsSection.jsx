@@ -19,13 +19,6 @@ const projects = [
     github: "https://github.com/khederTa/book-online-store-MERN-stack",
   },
   {
-    title: "Fiscal Ledger & Budget Portal",
-    desc: "An enterprise expense management platform featuring automated multi-period budget rollups, commitment tracking to prevent overspending, strict sequential approval state machines with full audit logging, and flexible file storage engines (Bytea/S3).",
-    image: "budget-portal.png",
-    tags: ["NestJS", "TypeScript", "PostgreSQL", "TypeORM", "REST API", "Database Migrations", "OpenAPI"],
-    github: "https://github.com/khederTa/boards-programs-portal",
-  },
-  {
     title: "Sign Language Recognition (ASL)",
     desc: "A deep learning application utilizing a fine-tuned, lightweight MobileNet architecture to predict and translate American Sign Language (ASL) gestures into real-time text via camera stream.",
     image: "sign-language.png",
