@@ -55,7 +55,7 @@ export default function AboutSection() {
           </ScrollReveal>
           <ScrollReveal delay={0.2}>
             <p className="text-foreground font-medium text-lg font-space">
-              I don't just write API endpoints — I build infrastructures
+              I don't just write API endpoints, I build infrastructures
               businesses scale on.
             </p>
           </ScrollReveal>

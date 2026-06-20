@@ -42,7 +42,7 @@ export default function ContactSection() {
 
         <ScrollReveal>
           <p className="text-center text-muted-foreground max-w-lg mx-auto mb-12">
-            If you need an engineer who combines quality, speed, and strategy —
+            If you need an engineer who combines quality, speed, and strategy,
             let's talk.
           </p>
         </ScrollReveal>
